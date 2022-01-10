@@ -7,8 +7,5 @@ y <- rnorm(500)
 #important feature 
 
 
-
-
-
-#Crazy styff 
+#an alternative way forward 
 #new feature - adding something 
